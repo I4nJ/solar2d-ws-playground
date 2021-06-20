@@ -1,0 +1,25 @@
+*\.pyc
+*\.orig
+*\.caf
+*\.mp3
+*\.m4a
+*\.wav
+
+*\.zip
+*\.png
+*\.jpg
+*\.jpeg
+*\.gif
+*\.nib
+
+# OS Stuff
+**/\.DS_Store
+*\.Spotlight-V100
+*\.Trashes
+*ehthumbs.db
+*Thumbs.db
+$RECYCLE.BIN/
+Desktop.ini
+
+__displaced__/*
+
